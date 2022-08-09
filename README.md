@@ -1,5 +1,5 @@
 ![](olist_images/brazil_olist_exp.png)
-# Customer_Satisfaction: An indepth Analysis of Olist E-commerce Market, Predicting Customer Satisfaction
+# An Indepth Analysis of Olist E-commerce Marketplace, Predicting Customer Satisfaction
 ### Author: Eric Romano
 ## Overview
 With an exponential growth of new digital users entering the market, its imperative businesses quickly adapt to shifts in the market and shifts in customer buying habits. A great way to beginning preparing is to evaluate shifts in costumer behavior is directly monitoring different E-commerce types.
